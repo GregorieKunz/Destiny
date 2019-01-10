@@ -1,1 +1,5 @@
 # Destiny
+
+Hi Human! 
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
